@@ -1,4 +1,4 @@
-
+# The floor of a number is the largest element less than or equal to the target.
 
 def floor_element(arr, target):
     low = 0
