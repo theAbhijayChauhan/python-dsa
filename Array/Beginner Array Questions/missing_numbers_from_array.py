@@ -21,6 +21,5 @@ def missingNumber_usingXOR(arr):
 
 
 arr = [0,1,2,3,5,6]
-size = len(arr)
 missingNumber_usingMath(arr)
 missingNumber_usingXOR(arr)
